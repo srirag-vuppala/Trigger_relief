@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "webrelief1",
+  "private_key_id": "9f1f2ecfb28853159b99ea879046b080d31b22a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmA1boW1QbqoKU\nKf4s9247R5A/bL6o054ZL1HPJ3BkX8NYyonKR86unYd63hIfOH6nBofP2JqMIFMR\n5DMN6aeZWQTANt1kon6k477hfqp3SOKUQl5S4MYJhIJKx+1Pvuk32Wd9mhyR6uYK\nbs3ZH9/b6rAQivh/Y+NCOSBHwRlzn5F8j7CKak/vPoS7G0V/8+2bfGkNq3s/vAZz\nprVunAoUI64Nw3sA81QAfv6rk6bc1D7X0l8CoVOKcAkomtbYRKECLIiwyfTccuNm\n7/aomHOH4akpZDMv9a7UJ6Y6g6qdOMyNZj3/Jr7I1m3JGRXNgCY9UQRLUT1DcXB4\nKsoS/JzJAgMBAAECggEAJzsmTEIa2e/dLETRLVCqgsU6XBanZq+djp+NUmokSAAO\nYpr4XW5DNCYDaGB2wVyBJ5jmOtKZ0Q/peZKnEvxasCUmd4LvpjK1QWOVjeW4RHib\nnMQjVKwL+J9RB/l/heccZ2ePqpGi+0Oaqa/+IreC2A45nastprMU9ycXTwWdrWIQ\nQcIZDhm9YU4QTsars57S6vbGtTKzj2JFwC47DZLmOgiyorJmtWdYnaJFVaRO1cK8\niCZOMj12hK1QHXR0dAAoAurGfWh3kvJ/iHZ3CQf71L9xz42xdXhlPmeaY5tPr500\n3iFm9y3i46ZAc2AvWhfLkZ6RtjPomvIPpoI1aMKsNQKBgQDXNZXLpXQsh3ToRTlM\nr4wCHli8KKqM4FMMTwRGGlBN6WQ+vzp+FpwloXLli1VVThmOI3CcWo3N4tfS6uSy\n+vksBoed3qzBLeHIDnFvvUYNwstPJ2yofFpX4cdX66elcwn4iDCQn+lApwIcC7n3\nqal3PkqV+cUTkwrKWSC9OiSw3QKBgQDFeqV2nw1pmBJhpW9Yz05o5SUzl3GLPQbh\nFbZth+Cs37umm9Tl7P8uQYKw8dV4jd1JSL0lw471KoAaQpQNnbx0N58of5cSXAD3\nynd8QwHzG4utugVxbuY2LP9M65MQxiWUgv8WEvhp8dMgo+STMd2j0cKkJKJenIRg\nQ/Xyf8nG3QKBgQCRRkroPbg+lvIEGTak3ZvVkka0PX9jucpV9MEd0YWEEpjpAo2p\nr/mYLXQyH+xquV3m5WWPJlGzOf4XExlu+Jxba80AdOCJRz+ynI1WsJ4pi+VSeXqQ\nAeG6kV7PqvRwa0e/za968XezfQmfhQr0dENBi3st4n12yTvvfFrtYeKCwQKBgHhX\nCffkaub7LdBlYRoskmqnoOj0k9O257dIZPgQQmD2okKgWbeXmdWVRFARvvWM9dmP\nwvv9VOOf95qJEfHOOqZTsuCaB/S/LjPSJMgLiWedVJwUbPa4Dv/aoeU89UzWgtYi\nkdHg05K0M+WDGmp8i8UlsUgXrv6awKxtHbaeGtbdAoGAO99LFq8Ec1n33tG0X8Xr\nhHxWf++WJkZ6WUqzi9bcqn9dh7dvSW2JGmBE3eHorCGsYXOUcpQk3r9GVQ/zkqDa\nzSqicTlbMs4ny+ziNb6DiFtYOIHluIM/lRfW2uZWSRXCGB6yfhBpiF1d3gEKf+M8\n/Y3qjKIgK5dfNTacJLlPlTA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "webrelief01@webrelief1.iam.gserviceaccount.com",
+  "client_id": "114960736079461414706",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/webrelief01%40webrelief1.iam.gserviceaccount.com"
+}

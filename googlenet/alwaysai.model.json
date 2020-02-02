@@ -1,0 +1,30 @@
+{
+  "id": "alwaysai/googlenet",
+  "accuracy": "",
+  "description": "Network that classifies images based on the 1000 categories described in Large Scale Visual Recognition Challenge 2012.",
+  "inference_time": 0.1734,
+  "license": "SEE LICENSE IN license.txt",
+  "mean_average_precision_top_1": 0.687,
+  "mean_average_precision_top_5": 0.889,
+  "public": true,
+  "website_url": "https://github.com/BVLC/caffe/tree/master/models/bvlc_googlenet",
+  "model_parameters": {
+    "framework_type": "caffe",
+    "config_file": "models/bvlc_googlenet.prototxt",
+    "size": [
+      224,
+      224
+    ],
+    "model_file": "models/bvlc_googlenet.caffemodel",
+    "label_file": "labels/synset_words.txt",
+    "scalefactor": 1,
+    "mean": [
+      104,
+      117,
+      123
+    ],
+    "crop": true,
+    "purpose": "Classification"
+  },
+  "version": 7
+}

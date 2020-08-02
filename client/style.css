@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+.censor_text{
+    color: red;
+    font-family: 'Raleway', 'sans-serif';
+}

@@ -5,6 +5,7 @@ import edgeiq
 from edgeiq import edge_tools
 
 """
+
 Use image classification to classify a batch of images. The
 classification labels can be changed by selecting different models.
 Different images can be used by updating the files in the *images/*

@@ -12,3 +12,4 @@ def classify_img():
 if __name__ == "__main__":
     c = Classify()
     app.run(debug=True)
+    
